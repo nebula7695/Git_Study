@@ -1,4 +1,4 @@
 a
 add
 
-main 브랜치에서 추가
+main. study 브랜치에서 추가
